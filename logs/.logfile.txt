@@ -1,0 +1,61 @@
+:::: Log File ::::
+[18/8/2022 -- 16:56]  Info task started
+[18/8/2022 -- 16:57]  Mustache Templates ran on the HTML files
+[18/8/2022 -- 16:57]  Scripts ran on main.js
+[18/8/2022 -- 16:57]  Sass ran on files
+[18/8/2022 -- 17:10]  Scripts ran on main.js
+[18/8/2022 -- 17:12]  Info task started
+[18/8/2022 -- 17:12]  Mustache Templates ran on the HTML files
+[18/8/2022 -- 17:12]  Scripts ran on main.js
+[18/8/2022 -- 17:12]  Sass ran on files
+[18/8/2022 -- 17:13]  Scripts ran on main.js
+[18/8/2022 -- 17:14]  Scripts ran on main.js
+[18/8/2022 -- 17:24]  Scripts ran on main.js
+[18/8/2022 -- 17:42]  Scripts ran on main.js
+[18/8/2022 -- 17:42]  Scripts ran on main.js
+[18/8/2022 -- 17:42]  Scripts ran on main.js
+[18/8/2022 -- 17:44]  Sass ran on files
+[18/8/2022 -- 17:46]  Info task started
+[18/8/2022 -- 17:47]  Mustache Templates ran on the HTML files
+[18/8/2022 -- 17:47]  Scripts ran on main.js
+[18/8/2022 -- 17:47]  Info task started
+[18/8/2022 -- 17:48]  Mustache Templates ran on the HTML files
+[18/8/2022 -- 17:48]  Scripts ran on main.js
+[18/8/2022 -- 17:48]  Sass ran on files
+[18/8/2022 -- 17:49]  Scripts ran on main.js
+[18/8/2022 -- 17:53]  Scripts ran on main.js
+[18/8/2022 -- 17:57]  Info task started
+[18/8/2022 -- 17:58]  Mustache Templates ran on the HTML files
+[18/8/2022 -- 17:58]  Scripts ran on main.js
+[18/8/2022 -- 17:58]  Sass ran on files
+[18/8/2022 -- 18:1]  Info task started
+[18/8/2022 -- 18:1]  Mustache Templates ran on the HTML files
+[18/8/2022 -- 18:1]  Scripts ran on main.js
+[18/8/2022 -- 18:1]  Sass ran on files
+[18/8/2022 -- 18:7]  Scripts ran on main.js
+[18/8/2022 -- 18:7]  Scripts ran on main.js
+[18/8/2022 -- 18:8]  Scripts ran on main.js
+[18/8/2022 -- 18:10]  Scripts ran on main.js
+[18/8/2022 -- 18:11]  Scripts ran on main.js
+[18/8/2022 -- 18:12]  Scripts ran on main.js
+[18/8/2022 -- 18:20]  Sass ran on files
+[18/8/2022 -- 18:21]  Sass ran on files
+[18/8/2022 -- 18:24]  Sass ran on files
+[18/8/2022 -- 18:24]  Sass ran on files
+[18/8/2022 -- 18:25]  Sass ran on files
+[18/8/2022 -- 18:25]  Sass ran on files
+[18/8/2022 -- 18:25]  Sass ran on files
+[18/8/2022 -- 18:25]  Sass ran on files
+[18/8/2022 -- 18:30]  Sass ran on files
+[18/8/2022 -- 18:30]  Sass ran on files
+[18/8/2022 -- 18:30]  Sass ran on files
+[18/8/2022 -- 18:30]  Sass ran on files
+[18/8/2022 -- 18:30]  Sass ran on files
+[18/8/2022 -- 18:32]  Sass ran on files
+[18/8/2022 -- 18:34]  Info task started
+[18/8/2022 -- 18:35]  Mustache Templates ran on the HTML files
+[18/8/2022 -- 18:35]  Scripts ran on main.js
+[18/8/2022 -- 18:35]  Sass ran on files
+[18/8/2022 -- 18:42]  Sass ran on files
+[18/8/2022 -- 18:47]  Sass ran on files
+[18/8/2022 -- 18:51]  Sass ran on files
